@@ -1,0 +1,498 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .commn_btn {
+        width: 140px;
+        height: 40px;
+        font-size: 13px;
+    }
+    .cmmn_titel {
+        font-size: 26px;
+    }
+  
+        /* header statrt */
+
+        header {
+            padding: 10px 0;
+        }
+        .menu ul li a {
+            padding: 24px 16px 0!important;
+            text-align: right;
+        }
+        .menu ul li:last-child a{
+            padding-right: 16px !important;
+        }
+        .banner_item {
+            padding: 50px 16px 60px 0;
+        }
+       
+        .bn_p {
+            font-size: 16px;
+            padding: 20px 0px 25px 0;
+        }
+        .bn_h1 {
+            font-size: 32px;
+        }
+
+            /* about start */
+                .about_item {
+                    padding: 0 ;
+                }
+                .about_us {
+                    padding: 40px 0;
+                }
+                .about_p {
+                    padding: 25px 0
+                }
+                .about_img {
+                    padding: 0 100px;
+                }
+    /* sKILL Section */
+        .progress_img {
+            padding: 0 ;
+        }
+        .skil_wp {
+            padding: 40px 0;
+        }
+        .progress-title {
+            padding-top: 14px;
+            font-size: 14px;
+        }
+
+    /* succes section */
+    .succ_p {
+        font-size: 14px;
+    }
+    .succ_icon {
+        font-size: 42px;
+    }
+    .succes {
+        padding: 40px 30px;
+    }
+    .sucss_wp {
+        padding: 20px 0px 0px;
+    }
+        /* lode more */
+        .load_btn {
+            padding: 15px 0;;
+        }
+        .textBTn {
+            font-size: 14px;
+    
+        }
+                      /* process section */
+              .work_pross{
+                padding: 40px 0;
+            }
+              .pross_p{
+                padding: 20px 0 25px;
+            }
+              .prosess_titel {
+                padding: 0 00px;
+            }
+         /* service item */
+         .serv_h3 {
+            padding: 15px 0 15px;
+        }
+        .serv_item {
+            padding: 20px 48px;
+        }
+        .serv_icon i {
+            font-size: 42px;
+        }
+                     /* service item */
+        .serv_item {
+            margin: 25px 30px;
+        }
+                        /* commanet staart */
+                .comment {
+                    padding: 40px 0 90px;
+                }
+                .c_indi{
+                    bottom: -90px;
+                }
+                .slider_h2 {
+                    padding: 0 0 30px;
+                    font-size: 18px;
+                    line-height: 26px;
+
+                }
+                .slider_text {
+                    margin-top: 40px;
+                }
+    /* soponsor sction */
+   .sponsor {
+    padding: 35px 0; 
+   }
+      /* form section */
+      .from_filup {
+        padding: 35px 0;
+
+    }
+    .comm_pd {
+        padding-bottom: 100px;
+    }
+    /* footer */
+
+    footer {
+        padding: 40px 0 20px;
+        text-align: center;
+    }
+        .foot_2 {
+        padding-top: 16px;
+        }
+        
+    
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+
+    .commn_btn {
+        width: 160px;
+        height: 46px;
+    }
+  
+        /* header statrt */
+
+        header {
+            padding: 10px 0;
+        }
+        .menu ul li a {
+            padding: 24px 0px 0!important;
+            text-align: right;
+        }
+      
+        .banner_item {
+            padding: 90px 25px 90px 0;
+        }
+        .bn_p {
+            font-size: 16px;
+            padding: 30px 32px 35px 0;
+        }
+        
+              /* about start */
+     .about_item {
+        padding: 0 ;
+    }
+    .about_us {
+        padding: 60px 0;
+    }
+    .about_p {
+        padding: 35px 0
+    }
+        /* sKILL Section */
+        .progress_img {
+            padding: 0 70px 30px;
+        }
+        .skil_wp {
+            padding: 40px 40px 40px 0;
+        }
+    /* succes section */
+    .succ_p {
+        font-size: 14px;
+    }
+    .succ_icon {
+        font-size: 42px;
+    }
+    .succes {
+        padding: 40px 0;
+    }
+    .sucss_wp {
+        padding: 20px 0px 0px;
+    }
+    /* lode more */
+    .load_btn {
+        padding: 20px 0;;
+    }
+    .textBTn {
+        font-size: 14px;
+
+    }
+              /* process section */
+              .work_pross{
+                padding: 40px 0;
+            }
+              .pross_p{
+                padding: 20px 0 25px;
+            }
+              .prosess_titel {
+                padding: 0 30px;
+            }
+             /* service item */
+        .serv_item {
+            padding: 25px 0;
+        }
+                        /* commanet staart */
+                .comment {
+                    padding: 75px 0 90px;
+                }
+                .c_indi{
+                    bottom: -90px;
+                }
+                .slider_h2 {
+                    padding: 0 0 30px;
+                    font-size: 18px;
+
+                }
+                .slider_text {
+                    margin-top: 40px;
+                }
+    /* soponsor sction */
+    .spon_img {
+        padding: 0 10px;
+    }
+   .sponsor {
+    padding: 45px 0; 
+   }
+   /* form section */
+        .from_filup {
+            padding: 60px 0;
+
+        }
+    /* footer */
+
+    footer {
+        padding: 40px 0 20px;
+        text-align: center;
+    }
+        .foot_2 {
+        padding-top: 16px;
+        }
+        
+    
+        
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* header statrt */
+
+    header {
+        padding: 10px 0;
+    }
+    .menu ul li a {
+        padding: 24px 0px 0!important;
+        text-align: right;
+    }
+  
+    .banner_item {
+        padding: 110px 22px 110px 0;
+    }
+    .bn_p {
+        font-size: 16px;
+        padding: 30px 148px 35px 0;
+    }
+     /* about start */
+     .about_item {
+        padding: 0 10px;
+    }
+    .about_us {
+        padding: 60px 0;
+    }
+    .about_p {
+        padding: 35px 0
+    }
+    /* sKILL Section */
+    .progress_img {
+        padding: 0 140px 50px;
+    }
+    .skil_wp {
+        padding: 40px 60px;
+    }
+    /* succes start */
+    .succes {
+        padding: 70px 50px;
+    }
+    .sucss_wp {
+        padding: 20px 0px 0px;
+    }
+    /* lode more btn */
+    .load_btn {
+        padding: 25px 0;;
+    }
+          /* process section */
+          .work_pross{
+            padding: 60px 0;
+        }
+          .pross_p{
+            padding: 25px 0 30px;
+        }
+          .prosess_titel {
+            padding: 0 90px;
+        }
+ /* service item */
+        .serv_item {
+            padding: 25px 36px;
+        }
+                /* commanet staart */
+                .comment {
+                    padding: 30px 0px 90px 0;
+                }
+                .c_indi{
+                    bottom: -70px;
+                }
+                .slider_h2 {
+                    padding: 0 0 30px;
+                    font-size: 20px;
+
+                }
+                .slider_text {
+                    margin-top: 40px;
+                }
+                /* soponsor sction */
+                .sponsor {
+                    padding: 45px 0;
+                }
+                        /* form section */
+        .from_filup {
+            padding: 60px 0;
+
+        }
+    /* footer */
+
+    footer {
+        padding: 40px 0 25px;
+        text-align: center;
+    }
+        .foot_2 {
+        padding-top: 30px;
+        }
+        
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+      /* header statrt */
+      .menu ul li a {
+        padding: 0 18px !important;
+    }
+    .banner_item {
+        padding: 150px 22px;
+    }
+    /* about start */
+    .about_item {
+        padding: 0 10px;
+    }
+    .about_us {
+        padding: 90px 0;
+    }
+    .about_p {
+        padding: 35px 0
+    }
+    /* succes section */
+    .succ_p {
+        font-size: 12px;
+    }
+      /* process section */
+      .work_pross{
+        padding: 70px 0;
+    }
+      .pross_p{
+        padding: 30px 0 35px;
+    }
+      .prosess_titel {
+        padding: 0 2px;
+    }
+    /* service item */
+    .serv_item {
+        padding: 25px 10px;
+    }
+    
+        /* commanet staart */
+        .comment {
+            padding: 40px 0px 100px 0;
+        }
+        .c_indi{
+            bottom: -80px;
+        }
+
+        /* form section */
+        .from_filup {
+            padding: 75px 0;
+
+        }
+
+    
+  
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (mi-width: 1200px) and (max-width: 1399.98px) { 
+  
+
+    /* header statrt */
+    .menu ul li a {
+        padding: 0 25px !important;
+    }
+    .banner_item {
+        padding: 180px 75px;
+    }
+
+    /* about start */
+    .about_item {
+        padding: 0 24px;
+    }
+    .about_us {
+        padding: 90px 0;
+    }
+    .about_p {
+        padding: 35px 0
+    }
+        /* skill section */
+        .skil_wp {
+            padding: 10px 30px 0 0;
+        }
+         /* process section */
+        .prosess_titel {
+            padding: 0 28px;
+        }
+
+        /* commanet staart */
+        .comment {
+            padding: 60px 0px 180px;
+           
+        }
+        .c_indi{
+            bottom: -100px;
+        }
+        /* form section */
+        .from_filup {
+            padding: 80px 0;
+
+        }
+
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+
+    /* banner */
+    .banner_item{
+        padding: 200px 124px;
+    }
+  
+    /* about start */
+    .about_item{
+        padding:0 75px;
+    
+    }
+    /* comment start */
+    .comment {
+        padding: 140px 0px 180px;
+    }
+    /* skill section */
+    /* process section */
+    .prosess_titel {
+        padding: 0 63px;
+    }
+/* servive section */
+.serv_item {
+    padding: 40px 25px;
+}
+
+}
